@@ -19,6 +19,10 @@ main p {
     font-size: 1.3rem;
 }
 
+main p:hover {
+    color: red;
+}
+
 h1, h2,p {
     text-align: center;
 }
