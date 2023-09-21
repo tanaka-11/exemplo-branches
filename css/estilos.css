@@ -1,10 +1,10 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: lightblue;
+    background-color: lightskyblue;
 }
 
 main {
-    background-color: lightgrey;
+    background-color: lightgray;
     padding: 1%;
     width: 80%;
     margin: auto;
@@ -21,4 +21,12 @@ main p {
 
 h1, h2,p {
     text-align: center;
+}
+
+footer, header {
+    background: gray;
+    width: 80%;
+    margin: auto;
+    color: white;
+
 }
