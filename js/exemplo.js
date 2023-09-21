@@ -1,2 +1,2 @@
-prompt("Qual seu nome?")
-alert("Bem-Vindo(a) ao site :)")
+var nome = prompt('Qual é seu nome?')
+document.write(`Olá <b>${nome}</b> bem-vindo(a) ao site!`)
