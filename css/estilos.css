@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightblue;
+}
+
+main {
+    background-color: lightgrey;
+    padding: 1%;
+    width: 80%;
+    margin: auto;
+}
+
+main h2 {
+    color: darkblue;
+}
+
+main p {
+    font-weight: 500;
+}
+
+h1, h2,p {
+    text-align: center;
+}
